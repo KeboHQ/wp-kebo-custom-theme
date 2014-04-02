@@ -15,7 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Useful global constants
-define( 'PREFIX_VERSION', '0.4.3' );
+define( 'PREFIX_VERSION', '0.1.0' );
 define( 'PREFIX_URL', plugin_dir_url(__FILE__) );
 define( 'PREFIX_PATH', plugin_dir_path(__FILE__) );
 
